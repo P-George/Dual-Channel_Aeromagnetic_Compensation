@@ -1,0 +1,2 @@
+# Dual-Channel_Aeromagnetic_Compensation
+用于航磁补偿的双通道模型
